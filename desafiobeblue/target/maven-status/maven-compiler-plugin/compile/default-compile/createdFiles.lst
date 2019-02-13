@@ -1,0 +1,9 @@
+br/com/beblue/entidade/Vendas.class
+br/com/beblue/dao/TesteDao.class
+br/com/beblue/entidade/Discos.class
+br/com/beblue/rest/TesteService.class
+br/com/beblue/dao/DiscosDao.class
+br/com/beblue/rest/DiscoVinilService.class
+br/com/beblue/rest/VendaService.class
+br/com/beblue/entidade/Teste.class
+br/com/beblue/config/JPAUtil.class
