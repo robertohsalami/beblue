@@ -1,0 +1,148 @@
+[
+	{
+		"genero": "ROCK",
+		"diaDaSemana": 1,
+		"porcentagem": 40
+	},
+	{
+		"genero": "ROCK",
+		"diaDaSemana": 2,
+		"porcentagem": 10
+	},
+	{
+		"genero": "ROCK",
+		"diaDaSemana": 3,
+		"porcentagem": 15
+	},
+	{
+		"genero": "ROCK",
+		"diaDaSemana": 4,
+		"porcentagem": 15
+	},
+	{
+		"genero": "ROCK",
+		"diaDaSemana": 5,
+		"porcentagem": 15
+	},
+	{
+		"genero": "ROCK",
+		"diaDaSemana": 6,
+		"porcentagem": 20
+	},
+	{
+		"genero": "ROCK",
+		"diaDaSemana": 7,
+		"porcentagem": 40
+	},
+	
+	
+	{
+		"genero": "POP",
+		"diaDaSemana": 1,
+		"porcentagem": 25
+	},
+	{
+		"genero": "POP",
+		"diaDaSemana": 2,
+		"porcentagem": 7
+	},
+	{
+		"genero": "POP",
+		"diaDaSemana": 3,
+		"porcentagem": 6
+	},
+	{
+		"genero": "POP",
+		"diaDaSemana": 4,
+		"porcentagem": 2
+	},
+	{
+		"genero": "POP",
+		"diaDaSemana": 5,
+		"porcentagem": 10
+	},
+	{
+		"genero": "POP",
+		"diaDaSemana": 6,
+		"porcentagem": 15
+	},
+	{
+		"genero": "POP",
+		"diaDaSemana": 7,
+		"porcentagem": 20
+	},
+	
+	
+	{
+		"genero": "MPB",
+		"diaDaSemana": 1,
+		"porcentagem": 30
+	},
+	{
+		"genero": "MPB",
+		"diaDaSemana": 2,
+		"porcentagem": 5
+	},
+	{
+		"genero": "MPB",
+		"diaDaSemana": 3,
+		"porcentagem": 10
+	},
+	{
+		"genero": "MPB",
+		"diaDaSemana": 4,
+		"porcentagem": 15
+	},
+	{
+		"genero": "MPB",
+		"diaDaSemana": 5,
+		"porcentagem": 20
+	},
+	{
+		"genero": "MPB",
+		"diaDaSemana": 6,
+		"porcentagem": 25
+	},
+	{
+		"genero": "MPB",
+		"diaDaSemana": 7,
+		"porcentagem": 30
+	},
+	
+	
+	{
+		"genero": "CLASSIC",
+		"diaDaSemana": 1,
+		"porcentagem": 35
+	},
+	{
+		"genero": "CLASSIC",
+		"diaDaSemana": 2,
+		"porcentagem": 3
+	},
+	{
+		"genero": "CLASSIC",
+		"diaDaSemana": 3,
+		"porcentagem": 5
+	},
+	{
+		"genero": "CLASSIC",
+		"diaDaSemana": 4,
+		"porcentagem": 8
+	},
+	{
+		"genero": "CLASSIC",
+		"diaDaSemana": 5,
+		"porcentagem": 13
+	},
+	{
+		"genero": "CLASSIC",
+		"diaDaSemana": 6,
+		"porcentagem": 18
+	},
+	{
+		"genero": "CLASSIC",
+		"diaDaSemana": 7,
+		"porcentagem": 25
+	}
+]

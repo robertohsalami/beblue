@@ -1,0 +1,104 @@
+[
+	{
+		"genero": "ROCK",
+		"preco": 97,
+		"nome": "Raul Seixas Volume 1"
+	},
+	
+	{
+		"genero": "ROCK",
+		"preco": 98,
+		"nome": "Titas Volume 1"
+	},
+	
+	{
+		"genero": "ROCK",
+		"preco": 87,
+		"nome": "Metalica Volume 1"
+	},
+	
+	{
+		"genero": "ROCK",
+		"preco": 101,
+		"nome": "Red Rot Chilli Peppers"
+	},
+	
+	{
+		"genero": "CLASSIC",
+		"preco": 123,
+		"nome": "Beethoven"
+	},
+	
+	{
+		"genero": "CLASSIC",
+		"preco": 127,
+		"nome": "Johann Sebatian Bach"
+	},
+	
+	{
+		"genero": "CLASSIC",
+		"preco": 99,
+		"nome": "Frederic Chopin"
+	},
+	
+	{
+		"genero": "CLASSIC",
+		"preco": 80,
+		"nome": "Wolfgang Amadeus Mozart"
+	},
+	
+	{
+		"genero": "MPB",
+		"preco": 23,
+		"nome": "Seu Jorge"
+	},
+	
+	{
+		"genero": "MPB",
+		"preco": 117,
+		"nome": "MPB4"
+	},
+	
+	{
+		"genero": "MPB",
+		"preco": 231,
+		"nome": "Roberto Carlos"
+	},
+	
+	{
+		"genero": "MPB",
+		"preco": 90,
+		"nome": "Gal Costa"
+	},
+	
+	{
+		"genero": "MPB",
+		"preco": 72,
+		"nome": "Tom Jobin"
+	},
+	
+	{
+		"genero": "POP",
+		"preco": 60,
+		"nome": "Skank"
+	},
+	
+	{
+		"genero": "POP",
+		"preco": 74,
+		"nome": "Jota Quest"
+	},
+	
+	{
+		"genero": "POP",
+		"preco": 44,
+		"nome": "Paralamas do Sucesso"
+	},
+	
+	{
+		"genero": "POP",
+		"preco": 82,
+		"nome": "Araketu"
+	}
+	
+]

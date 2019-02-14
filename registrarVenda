@@ -1,0 +1,31 @@
+[
+	{
+		"id": 2,
+    	"genero": "ROCK",
+    	"nome": "Titas Volume 1",
+    	"preco": 98
+	},
+	
+	{
+		"id": 5,
+    	"genero": "CLASSIC",
+    	"nome": "Beethoven",
+    	"preco": 123
+	},
+	
+	{
+		"id": 9,
+    	"genero": "MPB",
+    	"nome": "Seu Jorge",
+    	"preco": 23
+	},
+	
+	{
+		"id": 14,
+    	"genero": "POP",
+    	"nome": "Skank",
+    	"preco": 60
+	}
+	
+]
+
